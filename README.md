@@ -1,10 +1,10 @@
 # PasswardGenerator
 
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
+As an employee with access to sensitive data,
+I want to randomly generate a password that meets certain criteria
+so that I can create a strong password that provides greater security
 
-criteria: 
+Criteria: 
 1. length of passward remains 8 - 128 characters
 2. four character sets, lowercase, uppercase, numeric, and special character
 3. At least one character set has to be chosen for the password
